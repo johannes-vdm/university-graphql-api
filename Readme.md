@@ -4,3 +4,7 @@
 
 default:
 localhost:4000/graphql
+
+
+For Jest test
+`npm test`
